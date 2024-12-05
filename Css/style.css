@@ -225,7 +225,7 @@ span {
     align-self: flex-start;
 }
 
-@media (min-width: 395px) {
+@media (min-width: 420px) {
     .container {
         width: 1440px;
         display: grid;
